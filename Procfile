@@ -1,0 +1,1 @@
+worker: ./cmd/cardsagainstdiscord/cardsagainstdiscord -t Nzg4NzA5OTA1MTk2Mzg0MjY2.X9ndVg._F6qX2icayeThGWDcadtZg_wwIY
